@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:ui_practice_02/button_style01.dart';
 
-import 'main.dart';
+import 'button_practice.dart';
 
 class MultiButton extends StatefulWidget {
   const MultiButton({super.key});

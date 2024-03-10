@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'main.dart';
+import 'button_practice.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

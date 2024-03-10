@@ -2,7 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:ui_practice_02/color.dart';
-import 'package:ui_practice_02/main.dart';
+
+import 'button_practice.dart';
 
 class ScrollviewPractice extends StatefulWidget {
   const ScrollviewPractice({super.key});
